@@ -1,0 +1,47 @@
+C:/Users/eps/Desktop/Deco3a8Reg.vhd {0 {vcom -work work -2008 -explicit -vopt {C:\Users\eps\Desktop\Deco3a8Reg.vhd}
+Model Technology ModelSim SE-64 vcom 10.2e Compiler 2014.06 Jun 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Deco3a8Reg
+-- Compiling architecture Practica of Deco3a8Reg
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(32): near "end": expecting ';' or ')'
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(40): near "end": expecting ';' or ')'
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(45): Cannot use name "D" until the interface list is complete.
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(46): Cannot use name "D" until the interface list is complete.
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(45): (vcom-1484) Unknown formal identifier "S".
+
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(46): (vcom-1484) Unknown formal identifier "D".
+
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(50): Cannot use name "D" until the interface list is complete.
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(51): Cannot use name "Reset" until the interface list is complete.
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(51): Cannot use name "Reset" until the interface list is complete.
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(52): Cannot use name "Clk" until the interface list is complete.
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(52): Cannot use name "Clk" until the interface list is complete.
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(53): Cannot use name "Ce" until the interface list is complete.
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(53): Cannot use name "Ce" until the interface list is complete.
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(54): Cannot use name "Q" until the interface list is complete.
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(54): Cannot use name "Q" until the interface list is complete.
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(50): (vcom-1484) Unknown formal identifier "D".
+
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(51): (vcom-1484) Unknown formal identifier "Reset".
+
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(52): (vcom-1484) Unknown formal identifier "Clk".
+
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(53): (vcom-1484) Unknown formal identifier "Ce".
+
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(54): (vcom-1484) Unknown formal identifier "Q".
+
+** Error: C:\Users\eps\Desktop\Deco3a8Reg.vhd(56): VHDL Compiler exiting
+
+} {9.0 14.0 15.0 16.0 17.0 27.0 28.0 29.0 30.0 31.0 32.0 33.0 34.0 35.0 36.0 37.0} {}} C:/Users/eps/Desktop/Reg.vhd {1 {vcom -work work -2008 -explicit -vopt C:/Users/eps/Desktop/Reg.vhd
+Model Technology ModelSim SE-64 vcom 10.2e Compiler 2014.06 Jun 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Reg
+-- Compiling architecture Practica of Reg
+
+} {} {}}
